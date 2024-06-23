@@ -2,7 +2,7 @@
     <string name="app_name">Temperature Cricket</string>
     <string name="Did_you_know_you_can_determine_the_temperature_outside_by_counting_the_number_of_chirps_the_cricket_makes_just_count_the_number_of_chirps_one_in_25_seconds_and_place_the_number_in_the_box_below">Did you know you can determine the temperature outside by counting the number of chirps the cricket makes? Just count the number of chirps one makes in 25 seconds and place the number in the box below:</string>
     <string name="button">Calculate Temperature</string>
-    <string name="textview"> text</string>
+    <string name="textview"></string>
     <string name="img">img</string>
     <string name="etText">number of chirps in 25 seconds</string>
 </resources>
